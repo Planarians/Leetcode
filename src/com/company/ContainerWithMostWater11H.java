@@ -32,7 +32,11 @@ public class ContainerWithMostWater11H {
 //
 //            }
 //        }
-       while (i<j){
+
+
+
+
+        while (i<j){
            if(height[i]<=height[j]){
                k = Math.min(height[i], height[j]) * (j - i);
                i++;
