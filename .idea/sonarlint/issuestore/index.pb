@@ -17,3 +17,9 @@ K
 src/com/company/TwoSum.java,7/9/79fdf6f9f95bc3d37c6e3a14cb2858d0e3c38eec
 ^
 .src/com/company/ContainerWithMostWater11H.java,3/1/31ae8f31d0195daa742b7f6f33ca795a19cf6e23
+X
+(src/com/company/MergeSortedArray88E.java,4/d/4de3fa1b93a7aa78a89e5d63eda75d723fdbd918
+U
+%src/com/company/RemoveElement27E.java,9/d/9d0309e5a6e6174789e5916654c8cd3f63a2d63b
+S
+#src/com/company/RansomNote383E.java,d/8/d8e269f2915ad78ecc2748458cc2fec38acedfe1
