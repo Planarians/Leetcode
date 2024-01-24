@@ -2,7 +2,7 @@ package com.company;
 
 /**
  * @program: Leetcode
- * @description:
+ * @description: 90min
  * @author: Mr.Wang
  * @create: 2024-01-20 19:20
  **/
