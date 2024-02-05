@@ -24,6 +24,12 @@ public class PartitionArrayForMaximumSum1043M {
 //The dp array is used to store the maximum sum for each subarray ending at index i.
 
 /**
+
+ 其实就是遍历每个数计算从头到i这个位置的最大值
+    怎么计算呢 就是从这个位置再往左遍历k个位置把所有值都变成当前k个位置的最大值试试 然后再max取最大的就是当前的最大值
+            很暴力的递归
+ 然后i-j+1就是此时
+
  dp[0]=1 arr[0-j+1]
  dp[1]=30 arr[1-j+1]
 
