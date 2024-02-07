@@ -1,0 +1,17 @@
+
+Y
+java:S4973:"<Strings and Boxed types should be compared using "equals()".(–İ«8ÖÙˆÄÑ1
+<
+java:S1481"&Remove this unused "k" local variable.(¢³¯¯
+B
+java:S1481"'Remove this unused "k1" local variable.(ê”¥úÿÿÿÿ
+N
+java:S1854D"9Remove this useless assignment to local variable "list1".(ä™
+Y
+java:S1854C"7Remove this useless assignment to local variable "map".(ğ’³õøÿÿÿÿ8ºÚˆÄÑ1
+C
+java:S1481C"(Remove this unused "map" local variable.(ğ’³õøÿÿÿÿ
+?
+java:S1481D"*Remove this unused "list1" local variable.(ä™
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¿õˆÄÑ1

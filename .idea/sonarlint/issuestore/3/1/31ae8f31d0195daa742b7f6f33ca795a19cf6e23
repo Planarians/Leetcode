@@ -1,0 +1,8 @@
+
+F
+java:S1481"+Remove this unused "output" local variable.(¡Ü¯™ùÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(ù«îðúÿÿÿÿ8Ç¬ÈêÎ1
+E
+java:S11976"*Move the array designators [] to the type.(¾—ùóúÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(šš™è
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ÚÞˆ®8äç»êÎ1

@@ -1,0 +1,8 @@
+
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(Şï8–º™ÃÑ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÕˆÔøÿÿÿÿ8—º™ÃÑ1
+H
+java:S1481"&Remove this unused "x" local variable.(öŸ®÷ÿÿÿÿÿ8 º™ÃÑ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûåóˆ8¢º™ÃÑ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(äã–8£º™ÃÑ1

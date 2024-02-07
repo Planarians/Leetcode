@@ -1,0 +1,11 @@
+
+^
+java:S1854"<Remove this useless assignment to local variable "numsSort".(¢º—ôÿÿÿÿÿ8€§™ÃÑ1
+]	java:S125"<This block of commented-out lines of code should be removed.(åñ³ıûÿÿÿÿ8œ§™ÃÑ1
+O
+java:S1481"-Remove this unused "numsSort" local variable.(¢º—ôÿÿÿÿÿ8¨§™ÃÑ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Äı¯—8©§™ÃÑ1
+X	java:S125,"<This block of commented-out lines of code should be removed.(Ü„æà8Æ§™ÃÑ1
+]	java:S1255"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8Ğ§™ÃÑ1
+X	java:S125>"<This block of commented-out lines of code should be removed.(¯½ãú8Ñ§™ÃÑ1
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ÿÓ÷Õşÿÿÿÿ8Ò§™ÃÑ1

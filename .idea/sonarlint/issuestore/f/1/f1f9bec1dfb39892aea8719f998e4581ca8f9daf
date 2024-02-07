@@ -1,0 +1,7 @@
+
+F
+java:S1481"+Remove this unused "output" local variable.(¡Ü¯™ùÿÿÿÿ
+E
+java:S1197'"*Move the array designators [] to the type.(­–òøÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(…Æ‹ôúÿÿÿÿ
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Å´§¡ıÿÿÿÿ8Ò–êÄÑ1

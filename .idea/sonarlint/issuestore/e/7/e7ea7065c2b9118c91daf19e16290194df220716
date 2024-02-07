@@ -1,0 +1,15 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÃÇÎ
+P
+java:S18543"5Remove this useless assignment to local variable "r".(§Œ¤ğúÿÿÿÿ
+F
+java:S1481"+Remove this unused "output" local variable.(¡Ü¯™ùÿÿÿÿ
+A
+java:S1481"&Remove this unused "l" local variable.(ı¼œ°ùÿÿÿÿ
+<
+java:S1481"&Remove this unused "r" local variable.(ß‚Ã
+V	java:S125""<This block of commented-out lines of code should be removed.(¡ªåøÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(ÔÃÓ–üÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'com.sun.jdi.IntegerValue'.(ÍªÜ¼şÿÿÿÿ
