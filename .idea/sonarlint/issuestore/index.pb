@@ -1,7 +1,5 @@
 
 I
-src/com/company/test.java,d/5/d531a42cb4b1744a6af55c1670c89a9e75e8d78f
-I
 src/com/company/Main.java,4/a/4a831b10439099d44774d0ccc387e808deffaeab
 Z
 *src/com/company/MergeTwoSortedLists21.java,5/b/5bd83cc0c84988288b7d3c6833aa42cd88aa40cb
