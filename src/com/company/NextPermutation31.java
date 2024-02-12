@@ -50,7 +50,6 @@ public class NextPermutation31 {
         nums[k]=nums[r];
         nums[r]=temp;
 
-
         Arrays.sort(nums, k+1,nums.length);
         return;
 
