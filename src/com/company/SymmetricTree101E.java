@@ -8,6 +8,8 @@ package com.company;
  **/
 public class SymmetricTree101E {
 
+    //we need dfs on the left subtree and dfs on right subtree at the sam time
+
     public class TreeNode {
         int val;
         TreeNode left;
