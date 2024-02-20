@@ -20,6 +20,31 @@ public class LinkedListCycleII142M {
         }
     }
 
+    public ListNode detectCycle1(ListNode head) {
+        ListNode cur = head;
+        ListNode fast = head;
+        ListNode slow = head;
+
+        if ((head == null) || (head.next == null)) {
+            return null;
+        }
+
+        while (fast != null && fast.next != null) {
+            fast=fast.next.next;
+            slow=slow.next;
+            if(fast==slow){
+                fast=head;
+                while(fast!=slow){
+                    fast=fast.next;
+                    slow=slow.next;
+                }
+                return slow;
+            }
+        }
+
+        return null;
+    }
+
     public ListNode detectCycle(ListNode head) {
         ListNode cur = head;
         int i = 0;
