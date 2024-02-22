@@ -53,7 +53,6 @@ public class SumRootToLeafNumbers129M {
                 list.add(val);
             }
         }
-
     }
 
     public static void main(String[] args) {
