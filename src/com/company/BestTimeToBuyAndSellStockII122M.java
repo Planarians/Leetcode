@@ -1,0 +1,21 @@
+package com.company;
+
+/**
+ * @program: Leetcode
+ * @description:
+ * @author: Mr.Wang
+ * @create: 2024-03-02 14:54
+ **/
+public class BestTimeToBuyAndSellStockII122M {
+    class Solution {
+        public int maxProfit(int[] prices) {
+            int profit=0;
+            for(int i=1;i<prices.length;i++){
+                if(prices[i]>prices[i-1]){
+                    profit+=prices[i]-prices[i-1];
+                }
+            }
+            return profit;
+        }
+    }
+}
